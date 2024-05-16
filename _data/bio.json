@@ -6,41 +6,72 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a PhD in Information & Communication Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in December 2030.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am an NRT DESCARTES trainee studying for a PhD in Information & Communication Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in December 2030.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "mmaluhia",
+        "url": "http://github.com/mmaluhia"
+      },
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/mollymaluhia"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/mollymal"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/molly"
+      }
     ]
   },
   "interests": [
-    { "name": "Information Technology Management (ITM)" },
-    { "name": "DevOps" },
-    { "name": "Empirical Software Engineering" },
-    { "name": "Software Quality Assurance" },
-    { "name": "Business Statistics" }
+    {
+      "name": "Information Technology Management (ITM)"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Empirical Software Engineering"
+    },
+    {
+      "name": "Software Quality Assurance"
+    },
+    {
+      "name": "Business Statistics"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" ]
+      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -53,7 +84,7 @@
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Drive, design, and build student-community projects for UH Manoa"
       ]
     },
     {
@@ -64,7 +95,7 @@
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
+        "Troubleshoot software, hardware, and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
@@ -83,9 +114,9 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "Professional Organizations",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Member",
       "startDate": "",
       "endDate": "",
       "summary": "",
@@ -107,7 +138,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
